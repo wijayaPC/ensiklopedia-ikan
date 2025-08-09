@@ -158,6 +158,8 @@ const NavDesktop = () => {
   );
 };
 
+//aww
+
 const MobileMenuToggle = ({ onClick }: { onClick: () => void }) => (
   <motion.button
     className="md:hidden text-white focus:outline-none"
